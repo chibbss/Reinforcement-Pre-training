@@ -4,7 +4,7 @@ This repository contains a lightweight prototype of Microsoft's **Reinforcement 
 
 We simulate the RPT idea by reframing **next-token prediction** as a reward-based task — rewarding the model for correctly predicting each next token.
 
-## 📌 What’s Inside
+## 📌 What’s Inside - a RPT_V3.ipynb file containing :
 
 -  Custom dataset loader (JSONL format with prompt-completion pairs)
 -  Reward-weighted training loop (token-wise correctness → reward)
